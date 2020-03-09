@@ -5,7 +5,7 @@
 // @@supportURL    https://github.com/liuzelei/tampermonkey
 // @grant          none
 // @require        https://code.jquery.com/jquery-latest.js
-// @require        https://raw.githubusercontent.com/eligrey/FileSaver.js/v2.0.2/dist/FileSaver.js
+// @require        https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js
 // @include        https://fm.douban.com/*
 // @version        1.0.0
 // @icon           https://douban.fm/favicon.ico
